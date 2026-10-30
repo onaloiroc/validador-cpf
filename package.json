@@ -1,0 +1,25 @@
+{
+  "name": "validador-cpf",
+  "version": "1.0.0",
+  "description": "Validação, formatação e geração de CPF em Node.js pelo algoritmo oficial dos dígitos verificadores. Sem dependências.",
+  "main": "src/cpf.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "cpf",
+    "validacao",
+    "validator",
+    "brasil",
+    "nodejs"
+  ],
+  "author": "Victor Hugo Coriolano",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onaloiroc/validador-cpf.git"
+  }
+}
